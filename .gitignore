@@ -1,0 +1,5 @@
+# Ignore MNIST dataset directory
+
+mnist/
+Getting_Started_with_Deep_Learning/mnist/
+
